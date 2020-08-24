@@ -49,10 +49,7 @@
 <br />
 
 
-
-</details>
-
-
+### Github Stats for Shivansh Tiwari
 
 <img align="left" alt="Shivansh Github Stats" src="https://github-readme-stats.vercel.app/api?username=Shiv1202&show_icons=true&hide_border=true&theme=radical" />
 
