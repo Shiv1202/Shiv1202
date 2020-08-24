@@ -1,4 +1,4 @@
-### Hi there, I'm Jesse - [Shiv1202][website] 👋
+### Hi there, I'm Shivansh - [Shiv1202][website] 👋
 
 [![Website](https://img.shields.io/website?label=Shiv1202.github.io&style=for-the-badge&url=https%3A%2F%2FShiv1202.github.io)](https://shiv1202.github.io)
 
