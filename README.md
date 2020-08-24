@@ -1,18 +1,18 @@
 ### Hi there, I'm Jesse - [Shiv1202][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://shiv1202.github.io)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Website](https://img.shields.io/website?label=Shiv1202.github.io&style=for-the-badge&url=https%3A%2F%2FShiv1202.github.io)](https://shiv1202.github.io)
+
 
 ## I'm a Student, Learner, Programmer, and Software Developer!
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🔭 I’m currently working on a [Django and Django Rest Framework][website]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 👯 I’m looking to collaborate with other Open Source Developers
+- 🥅 2020 Goals: Contribute to Open Source projects
+- ⚡ Fun fact: I love travelling
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/8x2lep3d1rdemtqyhp5fj9eaj?si=wxvbeZCSQyCha_Y28Hs2Fw)
+[<img src="https://now-playing-Shiv.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/8x2lep3d1rdemtqyhp5fj9eaj?si=wxvbeZCSQyCha_Y28Hs2Fw)
 
 ### Connect with me:
 
@@ -92,7 +92,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="Shivansh Github Stats" src="https://github-readme-stats.vercel.app/api?username=Shiv1202&show_icons=true&hide_border=true" />
 
 </details>
 
