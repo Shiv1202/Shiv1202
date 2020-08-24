@@ -76,12 +76,12 @@
 
 </details>
 
-<details>
-  <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Shivansh Github Stats" src="https://github-readme-stats.vercel.app/api?username=Shiv1202&show_icons=true&hide_border=true&theme=radical" />
 
-</details>
+<img align="left" alt="Shivansh Github Stats" src="https://github-readme-stats.vercel.app/api?username=Shiv1202&show_icons=true&hide_border=true&theme=radical" />
+
+
+<br/>
 
 ### Top used language by me on Github
 
