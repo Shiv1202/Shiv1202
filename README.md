@@ -80,9 +80,6 @@
 
 <img align="left" alt="Shivansh Github Stats" src="https://github-readme-stats.vercel.app/api?username=Shiv1202&show_icons=true&hide_border=true&theme=radical" />
 
-
-<br/>
-
 ### Top used language by me on Github
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiv1202)](https://github.com/anuraghazra/github-readme-stats)
