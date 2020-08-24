@@ -96,8 +96,15 @@
 
 </details>
 
+<details>
+  <summary>:zap: Top Languages By Github</summary>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiv1202)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiv1202)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
+
+
+
 
 [website]: https://shiv1202.github.io
 [twitter]: https://twitter.com/codeSTACKr
