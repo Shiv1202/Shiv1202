@@ -39,7 +39,9 @@
 <img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
+<br />
 
+---
 
 <!-- ### 📕 Latest Blog Posts
 
@@ -66,7 +68,7 @@
 5. 🗣 Commented on [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme) -->
 <!--END_SECTION:activity-->
 
-</details>
+</details> -->
 
 <details>
   <summary>:zap: Github Stats</summary>
@@ -75,11 +77,12 @@
 
 </details>
 
+<details>
+  <summary>:zap: Top Languages By Github</summary>
+  ---
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiv1202)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiv1202)](https://github.com/anuraghazra/github-readme-stats)
-
-
+</details>
 
 
 
