@@ -11,8 +11,8 @@
 - 🥅 2020 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love travelling
 
-### Spotify Playing 🎧
-[<img src="https://now-playing-Shiv.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/8x2lep3d1rdemtqyhp5fj9eaj?si=wxvbeZCSQyCha_Y28Hs2Fw)
+<!-- ### Spotify Playing 🎧
+[<img src="https://now-playing-Shiv.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/8x2lep3d1rdemtqyhp5fj9eaj?si=wxvbeZCSQyCha_Y28Hs2Fw) -->
 
 ### Connect with me:
 
@@ -74,7 +74,7 @@
 5. 🗣 Commented on [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme) -->
 <!--END_SECTION:activity-->
 
-</details> -->
+</details>
 
 <details>
   <summary>:zap: Github Stats</summary>
