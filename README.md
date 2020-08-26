@@ -50,7 +50,7 @@
 <br />
 <br />
 
- ### 📕 Latest Blog Posts
+ ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Build a ToDo API in Django Rest Framework.](https://medium.com/@shivansht9211/build-a-todo-api-in-django-rest-framework-12105cc8e709?source=rss-590a4a98f2ff------2)
