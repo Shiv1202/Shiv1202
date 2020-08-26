@@ -81,6 +81,78 @@ print(sorted(["🥚", "🐣", "🐥", "🐔"]))
 <br />
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-146-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 325 Contributions in the Year 2020
+ > 
+> 📦 40.2 kB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 27 Public Repositories
+ > 
+> 🔑 1 Private Repository 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    64 commits     ███████░░░░░░░░░░░░░░░░░░   28.19% 
+🌆 Daytime    80 commits     ████████░░░░░░░░░░░░░░░░░   35.24% 
+🌃 Evening    74 commits     ████████░░░░░░░░░░░░░░░░░   32.6% 
+🌙 Night      9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.96%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       57 commits     ██████░░░░░░░░░░░░░░░░░░░   25.11% 
+Tuesday      31 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.66% 
+Wednesday    37 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.3% 
+Thursday     51 commits     █████░░░░░░░░░░░░░░░░░░░░   22.47% 
+Friday       6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.64% 
+Saturday     20 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.81% 
+Sunday       25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.01%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   9 repos             █████████████░░░░░░░░░░░░   52.94% 
+HTML                     5 repos             ███████░░░░░░░░░░░░░░░░░░   29.41% 
+JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
+TypeScript               1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.88%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://github.com/Shiv1202/Shiv1202/blob/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 
