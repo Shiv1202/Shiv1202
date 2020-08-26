@@ -47,6 +47,7 @@ print(sorted(["🥚", "🐣", "🐥", "🐔"]))
 <img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br/>
+---
 
 ### Frameworks
 <img align="left" height = "40px" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/django.svg" />
