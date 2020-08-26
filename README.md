@@ -1,4 +1,4 @@
-<h2>नमस्ते (Namaste)🙏🏻 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>नमस्ते (Namaste)🙏🏻 <img src="https://media.giphy.com/media/SwruoyEIshlpbUNdWv/giphy.gif" width="50"></h2>
 
 ### Hi there, I'm Shivansh - [Shiv1202][website] 👋
 
