@@ -1,3 +1,5 @@
+<h2>नमस्ते (Namaste)🙏🏻 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+
 ### Hi there, I'm Shivansh - [Shiv1202][website] 👋
 
 [![Website](https://img.shields.io/website?label=Shiv1202.github.io&style=for-the-badge&url=https%3A%2F%2FShiv1202.github.io)](https://shiv1202.github.io)
