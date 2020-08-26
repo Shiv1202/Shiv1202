@@ -11,7 +11,12 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Open Source Developers
 - 🥅 2020 Goals: Contribute to Open Source projects
-- ⚡ Fun fact: I love travelling
+- ⚡ Fun fact:  <strong>I once answered the world’s oldest question with a single line of Python.</strong>
+
+// Which came first: the chicken or the egg?
+print(sorted(["🥚", "🐣", "🐥", "🐔"]))
+
+>>> ["🐔", "🐣", "🐥", "🥚"];
 
 <!-- ### Spotify Playing 🎧
 [<img src="https://now-playing-Shiv.vercel.app/api/spotify-playing" alt="Shiv Spotify Playing" width="350" />](https://open.spotify.com/user/8x2lep3d1rdemtqyhp5fj9eaj?si=wxvbeZCSQyCha_Y28Hs2Fw) -->
