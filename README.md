@@ -14,6 +14,7 @@
 - ⚡ Fun fact:  <strong>I once answered the world’s oldest question with a single line of Python.</strong>
 
 // Which came first: the chicken or the egg?
+
 print(sorted(["🥚", "🐣", "🐥", "🐔"]))
 
 >>> ["🐔", "🐣", "🐥", "🥚"];
@@ -81,6 +82,9 @@ print(sorted(["🥚", "🐣", "🐥", "🐔"]))
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+
+### If you forking this repo please give a star.🙏🏻
 
 [website]: https://shiv1202.github.io
 [leetcode]: https://leetcode.com/shiv1202/
