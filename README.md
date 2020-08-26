@@ -52,6 +52,12 @@
  ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+<<<<<<< HEAD
+=======
+- [Build a ToDo API in Django Rest Framework.](https://medium.com/@shivansht9211/build-a-todo-api-in-django-rest-framework-12105cc8e709?source=rss-590a4a98f2ff------2)
+- [Short and helpful python code snippets that we use in everyday coding.](https://medium.com/@shivansht9211/short-and-helpful-python-code-snippets-that-we-use-in-everyday-coding-f153847af613?source=rss-590a4a98f2ff------2)
+- [How to Deploy Django Applications on AWS EC2 Using Apache server.](https://medium.com/@shivansht9211/how-to-deploy-django-applications-on-aws-ec2-using-apache-server-f6ae2e1effc4?source=rss-590a4a98f2ff------2)
+>>>>>>> d135f3f35531404a6b7c1828e1ae848f0b8245dc
 <!-- BLOG-POST-LIST:END -->
  
 <!-- ➡️ [more blog posts...](https://medium.com/me/stories/public)   -->
