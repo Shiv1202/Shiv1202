@@ -69,10 +69,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiv1202)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+<br />
 
-
-
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 [website]: https://shiv1202.github.io
 [leetcode]: https://leetcode.com/shiv1202/
