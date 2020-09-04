@@ -81,6 +81,7 @@ print(sorted(["🥚", "🐣", "🐥", "🐔"]))
 ---
 <br />
 
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@shiv1202/040a9a41-a6ed-4f6d-9a98-2016128789be.png" /></a>
 
 
 ### If you forking this repo please give a star.🙏🏻
