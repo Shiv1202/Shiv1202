@@ -5,12 +5,12 @@
 [![Website](https://img.shields.io/website?label=Shiv1202.github.io&style=for-the-badge&url=https%3A%2F%2FShiv1202.github.io)](https://shiv1202.github.io)
 
 
-## I'm a Student, Learner, Programmer, and Software Developer!
+## I'm a Learner, Programmer, and Software Developer!
 
 - 🔭 I’m currently working on a [Django and Django Rest Framework][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Open Source Developers
-- 🥅 2020 Goals: Contribute to Open Source projects
+- 🥅 2021 Goals: Contribute to Open Source projects
 - ⚡ Fun fact:  <strong>I once answered the world’s oldest question with a single line of Python.</strong>
 
 // Which came first: the chicken or the egg?
